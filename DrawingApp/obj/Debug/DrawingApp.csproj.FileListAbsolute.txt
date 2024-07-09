@@ -1,0 +1,9 @@
+C:\Users\vinan\source\repos\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\vinan\source\repos\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\vinan\source\repos\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\vinan\source\repos\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\vinan\source\repos\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\vinan\source\repos\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\vinan\source\repos\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\vinan\source\repos\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\vinan\source\repos\DrawingApp\obj\Debug\DrawingApp.pdb
