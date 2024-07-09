@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinan\\source\\repos\\LoginScreen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA2E905-B74C-4C4F-BA84-570BCD9324FD}|LoginScreen\\LoginScreen.csproj|c:\\users\\vinan\\source\\repos\\loginscreen\\loginscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA2E905-B74C-4C4F-BA84-570BCD9324FD}|LoginScreen\\LoginScreen.csproj|solutionrelative:loginscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA2E905-B74C-4C4F-BA84-570BCD9324FD}|LoginScreen\\LoginScreen.csproj|c:\\users\\vinan\\source\\repos\\loginscreen\\loginscreen\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA2E905-B74C-4C4F-BA84-570BCD9324FD}|LoginScreen\\LoginScreen.csproj|solutionrelative:loginscreen\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA2E905-B74C-4C4F-BA84-570BCD9324FD}|LoginScreen\\LoginScreen.csproj|c:\\users\\vinan\\source\\repos\\loginscreen\\loginscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FA2E905-B74C-4C4F-BA84-570BCD9324FD}|LoginScreen\\LoginScreen.csproj|solutionrelative:loginscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vinan\\source\\repos\\LoginScreen\\LoginScreen\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginScreen\\Form1.cs",
+              "ToolTip": "C:\\Users\\vinan\\source\\repos\\LoginScreen\\LoginScreen\\Form1.cs",
+              "RelativeToolTip": "LoginScreen\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:37:20.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinan\\source\\repos\\LoginScreen\\LoginScreen\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LoginScreen\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\vinan\\source\\repos\\LoginScreen\\LoginScreen\\Form1.Designer.cs",
+              "RelativeToolTip": "LoginScreen\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:35:58.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinan\\source\\repos\\LoginScreen\\LoginScreen\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginScreen\\Form1.cs",
+              "ToolTip": "C:\\Users\\vinan\\source\\repos\\LoginScreen\\LoginScreen\\Form1.cs [Design]",
+              "RelativeToolTip": "LoginScreen\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:35:34.44Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
