@@ -1,0 +1,9 @@
+C:\Users\vinan\source\-dcit318-assignment4-10983369\SimpleAddressBook\bin\Debug\SimpleAddressBook.exe.config
+C:\Users\vinan\source\-dcit318-assignment4-10983369\SimpleAddressBook\bin\Debug\SimpleAddressBook.exe
+C:\Users\vinan\source\-dcit318-assignment4-10983369\SimpleAddressBook\bin\Debug\SimpleAddressBook.pdb
+C:\Users\vinan\source\-dcit318-assignment4-10983369\SimpleAddressBook\obj\Debug\SimpleAddressBook.csproj.AssemblyReference.cache
+C:\Users\vinan\source\-dcit318-assignment4-10983369\SimpleAddressBook\obj\Debug\SimpleAddressBook.Properties.Resources.resources
+C:\Users\vinan\source\-dcit318-assignment4-10983369\SimpleAddressBook\obj\Debug\SimpleAddressBook.csproj.GenerateResource.cache
+C:\Users\vinan\source\-dcit318-assignment4-10983369\SimpleAddressBook\obj\Debug\SimpleAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\vinan\source\-dcit318-assignment4-10983369\SimpleAddressBook\obj\Debug\SimpleAddressBook.exe
+C:\Users\vinan\source\-dcit318-assignment4-10983369\SimpleAddressBook\obj\Debug\SimpleAddressBook.pdb
